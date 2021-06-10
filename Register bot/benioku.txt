@@ -1,0 +1,8 @@
+CODE UNİVERSE SUNUCUSUNUN REGİSTER BOTUDUR 
+'Ayven#5066 ve ⛧ Bâdlium#5312 tarafından yapılmıştır
+
+TOKEN .ENVDEDİR 
+BOTUN DURUMU bot.jsde
+BOTU SESE SOKMA BOT.JSDE
+BÜTÜN İŞLEMLER ayarlar.jsondadır 
+Discord Sunucumuz : https://discord.gg/wVxBhtwrF6
