@@ -1,1 +1,1 @@
-# discord-bot-register-v12
+Selamlar v12 register botum güzeldir komutları iyidir glitch uyarlanabilir
