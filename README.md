@@ -1,6 +1,6 @@
 Selamlar v12 register botum güzeldir komutları iyidir glitch uyarlanabilir
 ayarlar.jsonu doldurmanız yeterlidir
-#içindekiler
+**içindekiler**
 vip komutu
 kayıt komutu
 taglı alım komutu
